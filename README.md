@@ -1,7 +1,7 @@
 # Pinout Plus Issue Hub
 
 <p align="center">
-  <img src="https://www.pinoutplus.com/images/pinout-plus-primary_color_horizontal.png" alt="Pinout Plus logo" width="440">
+  <img src="./assets/pinout-plus-logo.png" alt="Pinout Plus logo" width="440">
 </p>
 
 <p align="center">
